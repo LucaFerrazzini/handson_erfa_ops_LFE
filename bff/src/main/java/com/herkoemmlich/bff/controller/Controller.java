@@ -24,7 +24,7 @@ public class Controller {
     }
 
     @GetMapping(value = "/config")
-    public String index() {
+    public String indexConfig() {
         return System.getenv("KeyVaultValue");
     }
 
