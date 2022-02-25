@@ -31,4 +31,4 @@ https://github.com/marketplace/actions/azure-webapp
 
 WICHTIG: In Github Workflows App Name anpassen
 
-WICHTIG: Connection Strings (BFF, Decision, DB, UI) anpassen
+WICHTIG: Connection Strings (BFF, Decision, DB, UI) anpassen 
