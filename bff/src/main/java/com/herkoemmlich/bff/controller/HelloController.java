@@ -11,7 +11,7 @@ public class HelloController {
         this.properties = properties;
     }
 
-    @GetMapping
+    @GetMapping(value = "/appconfig")
     public String getMessage() {
         return "Message: " + properties.getMessage();
     }
