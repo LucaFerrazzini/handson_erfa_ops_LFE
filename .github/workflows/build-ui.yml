@@ -3,7 +3,7 @@ name: Build UI
 on:
   push:
     branches:
-      - master
+      - main
     paths:
       - "ui/**"
   workflow_dispatch:

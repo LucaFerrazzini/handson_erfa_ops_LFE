@@ -3,7 +3,7 @@ name: Build BFF
 on:
   push:
     branches:
-      - master
+      - main
     paths:
       - "bff/**"
   workflow_dispatch:

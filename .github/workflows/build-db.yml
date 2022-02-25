@@ -3,7 +3,7 @@ name: Build DB
 on:
   push:
     branches:
-      - master
+      - main
     paths:
       - "db/**"
   workflow_dispatch:
