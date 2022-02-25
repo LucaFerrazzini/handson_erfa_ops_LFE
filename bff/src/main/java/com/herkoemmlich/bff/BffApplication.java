@@ -1,4 +1,4 @@
-package com.herkoemmlich.bff;
+package com.herkoemmlich;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
