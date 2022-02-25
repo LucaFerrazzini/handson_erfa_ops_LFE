@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bff/bff.iml" filepath="$PROJECT_DIR$/bff/bff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/db/db.iml" filepath="$PROJECT_DIR$/db/db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decision/decision.iml" filepath="$PROJECT_DIR$/decision/decision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/handson_erfa_basepp_cloud_ops.iml" filepath="$PROJECT_DIR$/.idea/handson_erfa_basepp_cloud_ops.iml" />
+    </modules>
+  </component>
+</project>

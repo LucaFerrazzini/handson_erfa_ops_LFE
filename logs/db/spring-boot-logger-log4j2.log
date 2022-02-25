@@ -1,0 +1,11 @@
+db 2022-02-04 16:39:31,484 INFO o.s.b.StartupInfoLogger [main] Starting DbApplication using Java 16.0.2 on adsl-172-10-0-142.dsl.sndg02.sbcglobal.net with PID 36818 (/Users/jan/Documents/git/handson_erfa_basepp_cloud_ops/db/target/classes started by jan in /Users/jan/Documents/git/handson_erfa_basepp_cloud_ops)
+db 2022-02-04 16:39:31,490 INFO o.s.b.SpringApplication [main] No active profile set, falling back to default profiles: default
+db 2022-02-04 16:39:32,271 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+db 2022-02-04 16:39:32,281 INFO o.a.j.l.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+db 2022-02-04 16:39:32,282 INFO o.a.j.l.DirectJDKLog [main] Starting service [Tomcat]
+db 2022-02-04 16:39:32,282 INFO o.a.j.l.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.56]
+db 2022-02-04 16:39:32,333 INFO o.a.j.l.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+db 2022-02-04 16:39:32,334 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 809 ms
+db 2022-02-04 16:39:32,593 INFO o.a.j.l.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+db 2022-02-04 16:39:32,602 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+db 2022-02-04 16:39:32,618 INFO o.s.b.StartupInfoLogger [main] Started DbApplication in 1.615 seconds (JVM running for 2.976)
