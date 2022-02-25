@@ -3,7 +3,7 @@ name: Build DECISION
 on:
   push:
     branches:
-      - main
+      - master
     paths:
       - "decision/**"
   workflow_dispatch:
