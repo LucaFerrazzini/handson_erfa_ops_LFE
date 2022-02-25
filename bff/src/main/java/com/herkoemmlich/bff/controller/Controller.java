@@ -23,6 +23,11 @@ public class Controller {
         return "Greetings from Spring Boot!";
     }
 
+    @GetMapping(value = "/config")
+    public String index() {
+        return System.getEnv("KeyVaultValue");
+    }
+
     @PostMapping(path = "/", consumes = "text/plain", produces = "application/json")
     public CalculateResponse calculateRisk(@RequestBody String customerId) {
         log.info("Calculating sterberisiko of customer with id={}", customerId);
