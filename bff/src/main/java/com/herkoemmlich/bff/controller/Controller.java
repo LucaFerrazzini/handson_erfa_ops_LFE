@@ -25,7 +25,7 @@ public class Controller {
 
     @GetMapping(value = "/config")
     public String index() {
-        return System.getEnv("KeyVaultValue");
+        return System.getenv("KeyVaultValue");
     }
 
     @PostMapping(path = "/", consumes = "text/plain", produces = "application/json")
