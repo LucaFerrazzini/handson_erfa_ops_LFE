@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.herkoemmlich.bff;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
